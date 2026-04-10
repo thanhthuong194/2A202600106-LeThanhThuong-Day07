@@ -51,7 +51,10 @@ class OpenAIEmbedder:
 
         self.model_name = model_name
         self._backend_name = model_name
-        self.client = OpenAI()
+        self.client = OpenAI(
+            base_url="https://models.inference.ai.azure.com/",
+            api_key=""
+        )
 
     def __call__(self, text: str) -> list[float]:
         response = self.client.embeddings.create(model=self.model_name, input=text)
