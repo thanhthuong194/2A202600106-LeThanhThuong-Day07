@@ -111,7 +111,7 @@ Chạy `ChunkingStrategyComparator().compare()` trên 3 tài liệu (Chapter I/I
 | Thành viên | Strategy | Retrieval Score (/10) | Điểm mạnh | Điểm yếu |
 |-----------|----------|----------------------|-----------|----------|
 | Tôi | SentenceChunker(max=5) + metadata filter | 6 / 10 | Giữ trọn vẹn ý/ngữ cảnh vì không cắt giữa câu. | Chunk có thể quá ngắn hoặc quá dài nếu văn bản không đều, đôi khi thiếu tính nhất quán về độ dài. |
-| Lê Văn Tùng | FixedSizeChunker(chunk_size=500) | 6/10 | Đảm bảo chunk đều, không quá ngắn/dài. Dễ kiểm soát số lượng và tốc độ indexing. Một số truy vấn factual vẫn chính xác nếu đáp án nằm trong chunk. | Dễ cắt ngang câu, làm mất ngữ cảnh. Trả lời có thể thiếu hoặc lệch ý khi thông tin bị chia nhỏ. Precision có thể giảm khi chunk không theo ranh giới ngữ nghĩa.|
+| Lê Văn Tùng | RecursiveChunker(300) | 5/10 | Giữ nguyên câu trọn vẹn | không có metadata filter|
 | Nguyễn Đức Sĩ | RecursiveChunker(500) + metadata filter | 8/10 |  	Đơn giản, dễ implement | Cắt giữa paragraph, mất context |
 | Đinh Thái Tuấn | Section-based + RecursiveChunker(500) + metadata filter | 6/10 | Filter theo heading_key giúp Q1, Q5 chính xác | Mock embedder hạn chế semantic matching |
 
