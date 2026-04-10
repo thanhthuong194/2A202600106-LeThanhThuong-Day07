@@ -27,9 +27,3 @@ Based on [Food52 Parsnip Gratin with Melty Gruyère and Thyme](https://food52.co
 7. Remove foil and pierce with fork - parsnips should be al dente. Bake another 15 minutes uncovered until golden and bubbly.
 8. Let sit at room temperature 15-20 minutes before serving so it sets and thickens.
 
-## Notes
-
-- Good and hearty, but a bit time-consuming.
-- Having a mandoline is very helpful for thin, even slices.
-- Leeks were a good addition.
-- Serves 6. Vegetarian and gluten-free (with rice flour).

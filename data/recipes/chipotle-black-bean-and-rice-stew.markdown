@@ -35,14 +35,4 @@ Tags: vegetarian, tried
 1.  Now add rice and bring back to a boil again. Then lower heat, cover, and
     let simmer until the rice is tender.
 
-## My notes
 
-For my version, I doubled, omitted bay leaf, increased amount of corn (entire
-frozen bag), and used some random peppers, a little less vegetable stock, and a
-little more rice. Overall the taste was good, it kind of tasted like packaged
-Spanish Rice. Unfortunately, as with the packaged rice, it was way too salty.
-It could have used some more liquid, but I held back on more vegetable stock
-due to cost and sodium factor. Things to try to eliminate the saltiness
-include: rinsing beans or cooking from scratch, dicing fresh tomatoes
-(recommended), or subsitituting some water for stock. Overall, seemed to be a
-huge amount of food.

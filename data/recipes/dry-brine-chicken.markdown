@@ -16,7 +16,4 @@ Based on [The Fresh 20](https://thefresh20.com/)
 2. Refrigerate at least 3 hours or overnight (up to 24 hours).
 3. Bake at 375°F for 30-40 minutes until no longer pink in center.
 
-## Notes
 
-- Turned out good.
-- Can also add lemon zest to the dry brine.

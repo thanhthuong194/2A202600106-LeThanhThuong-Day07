@@ -23,7 +23,4 @@ No-bake cheesecake with mango filling and mango jelly topping.
 5. Make jelly: bloom ¾ tsp gelatin in ¼ cup water, dissolve, whisk with reserved puree and lemon juice. Pour over filling.
 6. Refrigerate 12+ hours. Top with whipped cream and mango cubes if desired.
 
-## Notes
 
-- My mother-in-law makes this and my daughter loves it.
-- Use ripe mangoes for best results.

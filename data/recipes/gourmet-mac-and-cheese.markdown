@@ -41,15 +41,3 @@ These ingredients are doubled from the original because that is how much I make.
   for 30 minutes.
 - Sprinkle with the minced chives and serve.
 
-## My thoughts
-
-I make this for Christmas Eve. It is the venerated appetizer / snack holiday on
-my dad's side of the family. I doubled the recipe, and added everyone's
-favorite: bacon. Put some bacon in the cheese mix and leave some for the top so
-people know what they are getting into. I have used a jar of the precooked
-Hormel bacon and that worked out fine. But I now prefer putting some bacon in
-the oven and cutting it into small chunks after baking. Generally you can put
-the bacon in first at 350 degrees F and then keep the oven on to cook it at the
-end. I used the cayenne (just a bit) and maybe some paprika for flavor/color. I
-think I usually end up with 1 gorgonzola and 2 blue cheeses, and a variety of
-orange cheeses to total 6 cups.
